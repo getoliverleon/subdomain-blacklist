@@ -32,6 +32,7 @@ appengine
 application
 appnews
 apps
+arecord
 asdf
 asset
 assets
@@ -157,6 +158,7 @@ fusion
 gadget
 gears
 geographic
+get
 gettingstarted
 git
 gmail
@@ -180,6 +182,7 @@ i\d*
 image
 images
 images?
+imap
 img
 img1
 img2
@@ -334,7 +337,7 @@ slashinvoice
 slut
 sms
 smtp
-smtp
+smtpmail
 soap
 software
 sorry
@@ -393,6 +396,7 @@ video-stats
 voice
 w
 wave
+web
 webdisk
 webmail
 webmaster
